@@ -33,3 +33,7 @@ HMD X Position, HMD Y position, HMD Z Position, Current IPD, Current FOV Horizon
 XR Frame ID
 
 The last is an INT between 0 and 255, the rest are float/double values
+
+# FreeSound Assets:
+
+> Brick Drop on Grass 1.wav by dichardson -- https://freesound.org/s/570966/ -- License: Creative Commons 0
