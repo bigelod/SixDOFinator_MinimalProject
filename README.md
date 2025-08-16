@@ -45,6 +45,10 @@ XR Frame ID
 
 The last is an INT between 0 and 255, the rest are float/double values
 
+# WinlatorXR XrApi
+
+The documentation of the XrApi can be found [here](https://github.com/lvonasek/WinlatorXR/releases/tag/winlatorxr_cmod_v13_11)
+
 # FreeSound Assets:
 
 > Brick Drop on Grass 1.wav by dichardson -- https://freesound.org/s/570966/ -- License: Creative Commons 0
