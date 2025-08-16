@@ -4,6 +4,8 @@ It's 6DOF head and hand tracking inside a Windows application running on Winlato
 
 For a more complete example of what's possible, check out this repo instead: [SixDOFinator Sample Project](https://github.com/bigelod/SixDOFinator_SampleProject.git)
 
+If MIT license doesn't suit your needs, and you can use code under "The Unlicense" to your benefit instead, please feel free to consider this sample project as licensed under "The Unlicense" or Public Domain, I would love to see more PCVR on standalone in future!
+
 # Unity Editor Version: 
 2022.3.62f1 (LTS)
 
