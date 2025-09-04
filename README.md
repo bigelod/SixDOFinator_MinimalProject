@@ -58,7 +58,3 @@ These values come as either T for TRUE or F for FALSE
 # WinlatorXR XrApi
 
 The documentation of the XrApi can be found [here](https://github.com/lvonasek/WinlatorXR/releases/tag/winlatorxr_cmod_v13_11)
-
-# FreeSound Assets:
-
-> Brick Drop on Grass 1.wav by dichardson -- https://freesound.org/s/570966/ -- License: Creative Commons 0
